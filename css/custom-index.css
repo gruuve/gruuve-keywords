@@ -1,0 +1,51 @@
+
+  .temp {
+    /*font-family: 'Francois One', sans-serif;*/
+    font-size: 40px;
+    font-family: 'Lobster', cursive;
+    color: black;
+}
+
+.subtag {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    color: black;
+}
+
+/*nav {
+    background-color:#424242 ;
+  }*/
+
+.hide {
+    visibility: hidden;
+}
+
+
+.temp2 {
+    /*font-family: 'Francois One', sans-serif;*/
+    font-family: 'Lobster', cursive;
+    font-size: 70px;
+    color: black;
+}
+
+.subtag2 {
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+}
+
+.subtag3 {
+    font-family: 'Open Sans', sans-serif;    
+    font-size: 20px;
+    color: black;
+}
+
+.seo {
+    font-size: 20px;
+}
+
+
+.subtag4 {
+    font-family: 'Open Sans', sans-serif;    
+    font-size: 30px;
+    color: black;
+}

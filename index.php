@@ -58,7 +58,7 @@
                             $word = trim(preg_replace('/\s+/',' ', $word));
                             $word = str_replace(' ', '+', $word);
 
-                            $url = "https://g-keys.herokuapp.com/api/users?q=$word";
+                            $url = "";
                             $json = file_get_contents($url);
                             $res = json_decode($json);
 
